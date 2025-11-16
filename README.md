@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on: **Movie Store Platform (Angular + .NET 9)**
+- 🔭 Currently working on: **Human Resource Management System (Angular + .NET 9)**
 - 🌱 Learning: **Advanced .NET Web API, Clean Architecture, Angular Best Practices**
 - 💬 Ask me about: **C#, .NET, SQL, Angular, Git, REST APIs**
 - 🎯 Goal: Becoming a Professional Full-Stack Developer  
