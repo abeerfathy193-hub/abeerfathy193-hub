@@ -25,6 +25,7 @@
 <p>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
 </p>
@@ -32,7 +33,6 @@
 ### **Database**
 <p>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### **Tools**
@@ -52,7 +52,7 @@
 - Authentication & Roles
 - Movies Dashboard
 - Stripe Payment Integration  
-🔗 **Demp:** [Movie Store](https://movies-store-y9dg.vercel.app/MainHome)
+🔗 **Demo:** [Movie Store](https://movies-store-y9dg.vercel.app/MainHome)
 
 ### 🧾 **HR Management System**
 - Employees, Departments, Attendance
