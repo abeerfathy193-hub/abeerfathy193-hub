@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abeer Fathy</h1>
-<h3 align="center">Full-Stack Developer | .NET & Angular</h3>
+<h3 align="center">Full-Stack Developer | .NET & (Angular, React)</h3>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on: **Human Resource Management System (Angular + .NET 9)**
-- 🌱 Learning: **Advanced .NET Web API, Clean Architecture, Angular Best Practices**
-- 💬 Ask me about: **C#, .NET, SQL, Angular, Git, REST APIs**
+- 🔭 Currently working on: **E-Commerce with multi-vendors (React 18 + .NET 8)**
+- 🌱 Learning: **Advanced .NET Web API, Clean Architecture, React and Angular Best Practices**
+- 💬 Ask me about: **C#, .NET, SQL, Angular, React, MVC, Git, REST APIs**
 - 🎯 Goal: Becoming a Professional Full-Stack Developer  
 
 ---
@@ -55,7 +55,7 @@
 🔗 **Demo:** [Movie Store](https://movies-store-y9dg.vercel.app/MainHome)
 
 ### 🧾 **HR Management System**
-- Employees, Departments, Attendance
+- Employees, Departments, Attendance, Contracts, Reports
 - Web API + Angular  
 
 
